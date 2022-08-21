@@ -4,6 +4,6 @@
 
 ## Это я:
 
-![Это моё фото](https://skr.sh/sFXjFwqQozH?a)
+![Это моё фото](avatar.jpg)
 
 Это [ссылка](https://netology.ru/profile/8033487) на мой профиль в Нетологии. 
